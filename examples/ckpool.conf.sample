@@ -1,0 +1,15 @@
+{
+  "btcd": [{
+    "url": "127.0.0.1:8332",
+    "user": "YOUR_RPC_USER",
+    "pass": "YOUR_RPC_PASSWORD",
+    "notify": true
+  }],
+  "btcaddress": "YOUR_NON_CUSTODIAL_BTC_ADDRESS",
+  "btcsig": "/mined by drifora/",
+  "serverurl": ["0.0.0.0:3333"],
+  "startdiff": 64,
+  "maxdiff": 524288,
+  "zmqblock": "tcp://127.0.0.1:28332",
+  "logdir": "logs"
+}
