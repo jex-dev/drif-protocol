@@ -1,0 +1,3 @@
+[submodule "external/docker-ckpool"]
+	path = external/docker-ckpool
+	url = https://github.com/jex-dev/docker-ckpool.git
